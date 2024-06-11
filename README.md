@@ -51,7 +51,7 @@ Utiliza Postman para enviar la siguiente estructura JSON:
 #### Opcion alternativa
 - Descargar repo  
  ```cmd
-git clone https://github.com/fabian3117/TestSpringbootJWT.git
+git clone https://github.com/fabian3117/JTWSpringboot/tree/master.git
 ```
 - Descomprimir y en carpeta raiz ( Donde esta el gradlew)
 - Ejecutar
